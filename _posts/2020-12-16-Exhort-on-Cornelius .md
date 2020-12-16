@@ -1,6 +1,6 @@
 ---
-title: "Acts-10-Cornelius"
-date: YYYY-MM-DD
+title: "Acts 10 Cornelius"
+date: 2020-12-16
 ---
 
 # Acts 10 Cornelius 
