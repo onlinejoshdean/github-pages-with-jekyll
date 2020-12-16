@@ -1,3 +1,8 @@
+---
+title: "Acts-10-Cornelius"
+date: YYYY-MM-DD
+---
+
 # Acts 10 Cornelius 
 
 ## Intro
